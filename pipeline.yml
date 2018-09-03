@@ -1,5 +1,5 @@
 resources:
-- name: hello_world
+- name: git-repo
   type: git
   source:
     uri: https://github.com/nimkha/hello_world.git
@@ -8,7 +8,7 @@ resources:
 jobs:
 - name: job-build-and-verify
   plan:
-  - get: hello_world
+  - get: git-repo
     trigger: true
   - task: build-and-verify
-    file: hello_world/ci/mvn-build.yml
+    file: git-repo/ci/mvn-build.yml
