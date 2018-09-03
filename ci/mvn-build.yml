@@ -4,7 +4,7 @@ image_resource:
   source: {repository: maven, tag: 3.3.9-jdk-8}
 
 inputs:
-- name: travis
+- name: hello_world
 
 run:
-  path: ci/mvn-build.sh
+  path: hello_wolrd/ci/mvn-build.sh
