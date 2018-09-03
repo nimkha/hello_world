@@ -1,1 +1,1 @@
-mvn -f hello_world/pom.xml test
+mvn -f git-repo/pom.xml test
