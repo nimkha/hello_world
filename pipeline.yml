@@ -11,4 +11,4 @@ jobs:
   - get: hello_world
     trigger: true
   - task: build-and-verify
-    file: travis/ci/mvn-build.yml
+    file: Hello_world/ci/mvn-build.yml
