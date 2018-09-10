@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e166a06-6bf5-49f2-9b10-80867626324c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/hello_world.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hello-world-github/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-world-github/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PGR301/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PGR301/AppTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -313,7 +311,7 @@
       <updated>1535963409622</updated>
       <workItem from="1535963414379" duration="311000" />
       <workItem from="1535963821100" duration="7174000" />
-      <workItem from="1536567229021" duration="312000" />
+      <workItem from="1536567229021" duration="838000" />
     </task>
     <servers />
   </component>
@@ -329,7 +327,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7797000" />
+    <option name="totallyTimeSpent" value="8323000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
